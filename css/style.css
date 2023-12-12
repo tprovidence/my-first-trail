@@ -1,0 +1,9 @@
+.img-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img-container img {
+    height: 200px;
+    width: 200px;
+}
